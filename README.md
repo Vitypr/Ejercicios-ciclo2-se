@@ -10,6 +10,7 @@ Debes de tener instalado python 3.8 en tu computador, así también de las libre
 
 
 En todos los ejercicios planteados se ha aplicado los conceptos de buenas prácticas en Ingeniería de Software para plantear una solución.
+Todas las carpetas se encuentran en el archivo comprimido ciclo2-se.rar
 
 La siguiente carpeta /ciclo2-se contiene la respectiva resolución de los ejercicios puestos en clases.
   1. Clase 1 registro 2 SE. Desarrollo de calculadora en calculadora.py
