@@ -10,7 +10,7 @@ Debes de tener instalado python 3.8 en tu computador, así también de las libre
 
 
 En todos los ejercicios planteados se ha aplicado los conceptos de buenas prácticas en Ingeniería de Software para plantear una solución.
-Todas las carpetas se encuentran en el archivo comprimido ciclo2-se.rar
+Para el desarrollo del ejercicio 3.1 y 3.2 de la respectiva clase 3 es necesario descomprimir el archivo costos.rar que contiente costos.txt.
 
 La siguiente carpeta /ciclo2-se contiene la respectiva resolución de los ejercicios puestos en clases.
   1. Clase 1 registro 2 SE. Desarrollo de calculadora en calculadora.py
