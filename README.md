@@ -16,7 +16,6 @@ La siguiente carpeta /ciclo2-se contiene la respectiva resolución de los ejerci
   1. Clase 1 registro 2 SE. Desarrollo de calculadora en calculadora.py
   2. Clase 2 registro 2 SE. Posible optimización hacia ventas de libros en ventaslibros_ejercicio2.ipynb.
   3. Clase 3 registro 2 SE. Soluciones a creación de lista de deseos en tienda de ventas en Ejercicio3.1.ipynb y Ejercicio3.2.ipynb
-  4. Ejercicio 4 con el nombre Desarrollo.ipynb
   
 La carpeta también incluye 3 archivos .txt que se utilizan para el desarrollo de los ejercicios de la clase 2 y clase 3 del registro 2 en SE.
   1. libros_24_meses.txt se utiliza en ventaslibros_ejercicio2.ipynb.
