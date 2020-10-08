@@ -6,12 +6,9 @@
 Debes de tener instalado python 3.8 en tu computador, así también de las librerías: Pandas y numpy para el funcionamiento de los ejercicios.
 
 
-**Branches:**
+**Branches: Desarrollo1**
 
-  - Master: Contiene todas las actividades de el ciclo 2, registro 2 para la materia SE.
-  - Desarrollo: Contiene la edicion del ejercicio 2 aplicando sets.
-  - Desarrollo1: Contiene el laboratorio para el registro 2 solamente ocupando estructuras de control.
-  - Desarrollo2: Contiene el parcial 2 para el registro 2 optimizando al 300% de la solucion del laboratorio del registro 2 para la materia SE.
+  - Contiene el laboratorio para el registro 2 solamente ocupando estructuras de control pero se necesita la libreria numpy para el desarrollo de la lista de mas de 10 millones de datos con su respectiva media de 500 y escala de 30 datos.
   
 
 **Introducción:**
