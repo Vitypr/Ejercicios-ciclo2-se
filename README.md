@@ -6,6 +6,14 @@
 Debes de tener instalado python 3.8 en tu computador, así también de las librerías: Pandas y numpy para el funcionamiento de los ejercicios.
 
 
+**Branches:**
+
+  - Master: Contiene todas las actividades de el ciclo 2, registro 2 para la materia SE.
+  - Desarrollo: Contiene la edicion del ejercicio 2 aplicando sets.
+  - Desarrollo1: Contiene el laboratorio para el registro 2 solamente ocupando estructuras de control.
+  - Desarrollo2: Contiene el parcial 2 para el registro 2 optimizando al 300% de la solucion del laboratorio del registro 2 para la materia SE.
+  
+
 **Introducción:**
 
 
@@ -21,3 +29,4 @@ La carpeta también incluye 3 archivos .txt que se utilizan para el desarrollo d
   1. libros_24_meses.txt se utiliza en ventaslibros_ejercicio2.ipynb.
   2. catalogo_libros.txt se utiliza en ventaslibros_ejercicio2.ipynb.
   3. costos.txt se utiliza en Ejercicio3.1.ipynb y Ejercicio3.2.ipynb
+
