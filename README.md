@@ -17,7 +17,10 @@ Debes de tener instalado python 3.8 en tu computador, así también de las libre
 **Link de resolucion de parcial 2 para SE:**
 
 
-##https://youtu.be/SaOM4gBQRGs##
+https://youtu.be/SaOM4gBQRGs
+
+
+En este link se presenta un video tutorial del porceso de funcionamiento para el laboratorio y parcial2 de la materia SE. 
 
 
 **Introducción:**
