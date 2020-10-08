@@ -6,6 +6,12 @@
 Debes de tener instalado python 3.8 en tu computador, así también de las librerías: Pandas y numpy para el funcionamiento de los ejercicios.
 
 
+**Branch: Desarrollo2**
+
+contiene el archivo Parcial2_2014011089.ipynb en este ejercicio se planteo optimizar al 300% el codigo del laboratorio2 en el branch de desarrollo1 el cual se crean los valores de la misma manera utilizando numpy para luego crear una dataframe con pandas y pasar a realizar la suma de las variables con este mismo.
+
+
+
 **Introducción:**
 
 
