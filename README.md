@@ -11,6 +11,12 @@ Debes de tener instalado python 3.8 en tu computador, así también de las libre
 contiene el archivo Parcial2_2014011089.ipynb en este ejercicio se planteo optimizar al 300% el codigo del laboratorio2 en el branch de desarrollo1 el cual se crean los valores de la misma manera utilizando numpy para luego crear una dataframe con pandas y pasar a realizar la suma de las variables con este mismo.
 
 
+**Link de resolucion de parcial 2 para SE:**
+
+https://youtu.be/SaOM4gBQRGs
+
+En este link se presenta un video tutorial del porceso de funcionamiento para el laboratorio y parcial2 de la materia SE.
+
 
 **Introducción:**
 
