@@ -28,4 +28,7 @@ La siguiente carpeta /ciclo2-se contiene la respectiva resolución de los ejerci
 La carpeta también incluye 3 archivos .txt que se utilizan para el desarrollo de los ejercicios de la clase 2 y clase 3 del registro 2 en SE.
   1. libros_24_meses.txt se utiliza en ventaslibros_ejercicio2.ipynb.
   2. catalogo_libros.txt se utiliza en ventaslibros_ejercicio2.ipynb.
-  3. costos.txt se utiliza en Ejercicio3.1.ipynb y Ejercicio3.2.ipynb
+  3. costos.txt se utiliza en Ejercicio3.1.ipynb y Ejercicio3.2.ipynb.
+  
+En esta branch llamada master tambien se incluye la resolucion del parcial numero 2 de la materia sistema expertos bajo el nombre de parcial2_2014011089.ipynb.
+Para el funcionamiento de este mismo ejercicio se necesita el uso de las librerias numpy y pandas respectivamente.
